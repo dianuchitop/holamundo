@@ -1,6 +1,6 @@
 # holamundo
 ## Este es un subtitulo
-### Esta es una seccin pequeña
+### Esta es una seccion pequeña
 primer repo de metodos
 
 * primer elemento de una lista
